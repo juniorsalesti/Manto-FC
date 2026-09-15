@@ -1,0 +1,6 @@
+{
+  "name": "Manto FC — Catálogo de Camisas",
+  "description": "Catálogo premium de camisas de futebol e NBA com atendimento direto via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
